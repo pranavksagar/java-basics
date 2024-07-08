@@ -1,0 +1,25 @@
+## Collections Framework
+
+Java Collections is not just a library with util classes that you can use but it is a framework that guides you to
+implement your own collections as well. It is a high performing and optimal tool which is optimized as much as possible.
+It offers good preset data structures.
+
+What the collections framework provides?
+
+1. Core interfaces (eg. List)
+2. Implementations (eg. ArrayList)
+3. Abstract Implementations (eg. AbstractList) - These are the reason why it is a framework and not a library
+4. Concurrent Implementations (eg. ConcurrentHashMap) - Takes care of thread safety. Implementations aren't by default thread safe
+5. Algorithms (Sorting, Binary Search)
+6. Utilities (eg Arrays.compare())
+
+
+Collections Interfaces-
+
+1. Collection
+2. Map (Map is different as it is not just a collection of a single object but a collection of key-value pairs)
+
+ 
+
+
+
